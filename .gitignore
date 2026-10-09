@@ -40,3 +40,6 @@ Thumbs.db
 *.sqlite3
 *.db.bak*
 backups/
+
+# Database snapshot included by request
+!propostas.db
